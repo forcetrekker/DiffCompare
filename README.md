@@ -15,3 +15,7 @@ Used for comparing two files under the configured directory
 2. Run `npm install` to install the dependencies locally, at the moment which is inquirer.
 3. Run `npm start` to start the application.
 4. Select one of the option and enter, this will execute the diff command to start the vscode with file comparison.
+
+---
+
+![Example](images/example.jpg "Demo example")
