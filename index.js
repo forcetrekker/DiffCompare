@@ -8,7 +8,7 @@ inquirer
             type: 'list',
             name: 'className',
             message: 'Please select a class to compare between source and destination folders?',
-            choices: config.classNames
+            choices: config.fileNames
         }
     ])
     .then(answers => {
